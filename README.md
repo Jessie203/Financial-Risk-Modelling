@@ -1,2 +1,3 @@
-# Financial-Risk-Modelling
-This project focuses on building financial risk models using real-world peer-to-peer lending data from LendingClub, a U.S.-based fintech platform. The data includes detailed loan application and performance information, suitable for modelling credit risk, fraud detection, and stress testing.
+# 🏦 Financial Risk Modeling with LendingClub Data
+
+This project focuses on building robust financial risk models using real-world peer-to-peer lending data from **LendingClub**, a U.S.-based fintech platform. The analysis includes **credit risk modeling**, **fraud detection**, and **stress testing**, designed to mirror real-world financial risk workflows, especially in the context of UK FinTech and banking regulation.
